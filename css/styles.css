@@ -7204,7 +7204,7 @@ textarea.form-control-lg {
 
 .border-white {
   --bs-border-opacity: 1;
-  border-color: rgba(var(--bs-white-rgb), var(--bs-border-opacity)) !important;
+  border-color:   #f4623a !important;
 }
 
 .border-1 {
