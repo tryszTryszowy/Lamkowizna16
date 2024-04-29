@@ -8028,7 +8028,7 @@ textarea.form-control-lg {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
 }
-.text-grean {
+.text-green {
   --bs-bg-opacity: 1;
   color: #2b543a !important;
 }
